@@ -1,12 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int x;
-    int y;
-    int z;
-
-    x = 13;
-    y = 1917;
-    z = x + y; // 1930
+    int x = 13;
+    int y = 1917;
+    int z = x + y;
     return 0;
 }
