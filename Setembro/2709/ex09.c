@@ -1,0 +1,1 @@
+/*Escreva um programa alimente um vetor de 5 números inteiros distintos. Em seguida, leia um número qualquer do teclado e mostre na tela o índice em que o número se encontra no vetor, ou então a mensagem "Nâo encontrado", se o número não estiver presente no vetor. */

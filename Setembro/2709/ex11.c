@@ -1,0 +1,1 @@
+/*Escreva um programa que preencha um vetor com 5 elementos inteiros. Após o término do preenchimento, trocar todos os valores negativos do vetor por 0 e apresentar o vetor atualizado na tela.*/

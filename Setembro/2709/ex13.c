@@ -1,0 +1,1 @@
+/*Escreva um programa que alimente um vetor G de 6 elementos contendo o gabarito da Mega Sena e um vetor de A de 10 elementos contendo uma aposta. A seguir, mostre na tela quantos pontos fez o apostador.*/
