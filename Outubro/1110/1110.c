@@ -30,6 +30,17 @@ int strcmp(char* left, char* right) {
             return 1;
         }
     }
+
+    if(left[i] == '\0' && right[i] == '\0') {
+        return 0;
+    }
+
+    if (left[i] == '\0') {
+        return -1;
+    }
+
+    return 1;
+
 }
 
 int main() {
